@@ -94,6 +94,6 @@
 		]
 	},
 	"socket": true,
-	"manifest": "https://github.com/mjording/automated-jb2a-animations/releases/latest/download/module.json",
+	"manifest": "https://github.com/mjording/automated-jb2a-animations/releases/download/4.2.85/module.json",
 	"download": "https://github.com/mjording/automated-jb2a-animations/releases/download/4.2.85/module.zip"
 }
