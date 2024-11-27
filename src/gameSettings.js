@@ -432,8 +432,8 @@ class AAGameSettings extends TJSGameSettings {
                key: 'playonDamageCore',
                folder: game.system.title || game.system.name,
                options: {
-                  name: 'autoanimations.settings.coreondmg_name',
-                  hint: 'autoanimations.settings.coreondmg_hint',
+                  name: 'autoanimations.settings.coreonatk_name',
+                  hint: 'autoanimations.settings.coreonatk_hint',
                   scope: scope.world,
                   type: Boolean,
                   default: false,

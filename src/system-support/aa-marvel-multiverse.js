@@ -21,8 +21,7 @@ export function systemHooks() {
 
 /**
  * 
- * @param {Boolean} hasAttack // Checks if the item has Attack
- * @param {Boolean} hasDamage // Checks if the item has Damage
+ * @param {Boolean} attack // Checks if the item has Attack
  *  
  */
 
